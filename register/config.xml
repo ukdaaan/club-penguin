@@ -1,0 +1,12 @@
+<penguinelite>
+	<port>6112</port>
+	<ip>0</ip> <!--The IP should ALWAYS stay 0! -->
+	<type>login</type>
+	<mysql>
+		<host>127.0.0.1</host> <!--This should remain 127.0.0.1 unless your mysql server isnt hosted in the same place -->
+		<username></username>
+		<dbname></dbname>
+		<password></password>
+		<userTableName></userTableName>
+	</mysql>
+</penguinelite>

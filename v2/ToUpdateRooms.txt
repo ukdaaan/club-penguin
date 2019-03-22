@@ -1,0 +1,61 @@
+First, and most important, Club Penguin can suck my cock for being so god damn idiotic when naming this,
+what the fuck, man. When did they add all these damn rooms? Christ. Run this when we need to update our rooms
+
+In case you're connor and have no idea what this is: In your TERMINAL, not cmd
+putty(i don't know if it will work)
+copy all of this at once, and paste it. it will proceed to do it all. k
+
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/town.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/plaza.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/pet.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/cove.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/forest.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/pizza.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/berg.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/ship.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/dance.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/attic.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/agent.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/agentcom.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/beach.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/beacon.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/shack.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/shop.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/mine.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/lounge.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/stage.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/rink.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/eco.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/cavemine.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/lake.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/coffee.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/book.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/village.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/lodge.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/agentlobbysolo.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/agentlobbymulti.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/mtn.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/dock.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/forts.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/cave.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/boiler.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/dojo.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/dojofire.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/dojowater.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/dojohide.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/light.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party2.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party3.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party4.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party5.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party6.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party7.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party8.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party9.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party10.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party11.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party12.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/party13.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/shipnest.swf
+wget http://media1.clubpenguin.com/play/v2/content/global/rooms/shiphold.swf

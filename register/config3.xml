@@ -1,0 +1,12 @@
+<penguinelite>
+	<port>6114</port>
+	<ip>0</ip> <!--The IP should ALWAYS stay 0! -->
+	<type>game</type>
+	<mysql>
+		<host>127.0.0.1</host>
+		<username></username>
+		<dbname></dbname>
+		<password></password>
+		<userTableName></userTableName>
+	</mysql>
+</penguinelite>
