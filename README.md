@@ -1,9 +1,8 @@
-##Getting Started
+#Club Penguin Rewritten
 
-This is the source code for CPPS UK (Formally Snowy CPPS), with a bit of editing some code you are able to upload all the files found on this repo and upload them to a VPS and play on with your friends and the rest of the world. 
+This repo is not https://cprewritten.net, this is based on the Kitsune media pack and requires flash player essentially rendering it useless on a functional scale post the removal and depreciaton of Adobe Flash / Action Script.
 
-For a more detailed guide on getting setup please use the Wiki on the projects left hand panel which will tell you what files you need to edit and what each file needs to contian.
+Everything in this folder should be enough to get a copy online and functional, no support is provided and this repo is provided for archiving and educational purposes.
 
-Thank you for choosing CPPS UK as the foundation for you new CPPS
-###Waddle On,
-Daniel
+Thanks,
+Dan
